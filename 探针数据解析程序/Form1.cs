@@ -178,6 +178,7 @@ namespace 探针数据解析程序
                 {
                     conn.Close();
                     int mm = 00;
+                    string asd = "ads";
                 }
             }
 
