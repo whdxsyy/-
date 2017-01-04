@@ -177,8 +177,6 @@ namespace 探针数据解析程序
                 if (this.conn != null)
                 {
                     conn.Close();
-                    int mm = 00;
-                    string asd = "ads";
                 }
             }
 
